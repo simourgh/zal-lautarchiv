@@ -88,6 +88,7 @@ http://www.humboldt-forum.de/startseite/
 
 Die Bestände des Lautarchivs finden auch in künstlerischen Projekten ihre Auseinandersetzung. So verarbeitet die Berliner Band Einstürzende Neubauten in ihrer Liveperformance LAMENT, ein Auftragswerk der Region Flandern anlässlich des Gedenkens an den Beginn des Ersten Weltkrieges vor 100 Jahren, Tonaufnahmen belgischer Kriegsgefangener.
  
+ [Pics siehe Doc]
 
 Das Werk wurde am 8.November 2014 in Diksmuide, Belgien, uraufgeführt und erlebte seitdem weltweit Aufführungen. Mit diesem Werk verknüpft die Band ihre explizit in der Tradition der Avantgarde stehenden Techniken mit diesem ersten, die gesamte Welt erschütternden Weltereignis. Das Instrumentarium der Neubauten aus Stahl, Stimme, objets trouvés und innovativster Technik wurde hierfür mit einem Streicher-Ensemble erweitert.
 
