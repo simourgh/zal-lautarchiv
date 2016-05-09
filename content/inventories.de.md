@@ -37,6 +37,16 @@ Die Aufnahmen wurden in Form standardisierter Personalbögen zu den Sprechern do
 
 Hörbeispiele: %%%% 
 
+### "Verbrecheraufnahmen"
+
+### "Tierstimmen"
+
+### Kommerzielle Sprachplatten
+
+### Aufnahmen auf Acetatplatten
+
+### vereinzelte Aufnahmen
+
 ### Phonetische Aufnahmen aus der Zeit der DDR. 
 
 Es liegen über 300 Aufnahmen auf Magnetbändern vor. Ihre Erschließung und Digitalisierung steht noch aus. Eine Bestandsübersicht finden Sie hier. Hinweise von Zeitzeugen zu diesem Bestand sind willkommen.
