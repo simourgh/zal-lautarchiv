@@ -1,7 +1,7 @@
 
 # Geschichtlicher Überblick
 
-[Test Jochen 2]Obwohl das Lautarchiv erst im Jahr 1920 als Lautabteilung an der Preußischen Staatsbibliothek gegründet wurde, gehen die Aufnahmen bis auf das Jahr 1909 zurück. Der Sprachlehrer Wilhelm Doegen (1877–1967) hatte in dieser Zeit begonnen, Sprachschallplatten für den Schulunterricht zu produzieren. Als technische Grundlage diente das im Jahr 1887 entwickelte Grammophon als Weiterentwicklung des zehn Jahr zuvor erfundenen Phonographen.
+Obwohl das Lautarchiv erst im Jahr 1920 als Lautabteilung an der Preußischen Staatsbibliothek gegründet wurde, gehen die Aufnahmen bis auf das Jahr 1909 zurück. Der Sprachlehrer Wilhelm Doegen (1877–1967) hatte in dieser Zeit begonnen, Sprachschallplatten für den Schulunterricht zu produzieren. Als technische Grundlage diente das im Jahr 1887 entwickelte Grammophon als Weiterentwicklung des zehn Jahr zuvor erfundenen Phonographen.
 
 ## Die Königlich Preußische Phonographische Kommission
 
