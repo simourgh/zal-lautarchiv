@@ -152,3 +152,11 @@ Ausstellungsleitung: Prof. Dr. Paula Lutum-Lenger
 Kuratoren: Dr. Sebastian Dörfler, Dr. Franziska Dunkel, Johannes Häußler
 
 http://www.krieg-und-sinne.de/startseite/
+
+## DFG-Projekt Britta Lange
+
+## Tagung "Listening to the Archive"
+
+## Edition koreanischer Aufnahmen
+
+
