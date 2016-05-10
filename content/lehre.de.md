@@ -2,7 +2,8 @@
 
 
 ### SoSe 2016
-[Vorlesung Britta nachtragen]
+Vorlesung (Kulturwissenschaft): Gefangene Stimmen. Zur Aktualität der Tonaufnahmen aus dem Lautarchiv der Humboldt-Universität
+PD Dr. Britta Lange
 
 ### WiSe 2015/16
 
