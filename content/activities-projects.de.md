@@ -91,6 +91,7 @@ Das Werk wurde am 8.November 2014 in Diksmuide, Belgien, uraufgeführt und erleb
 Auch die CD enthält das Stück "Lament" in dem Aufnahmen des biblischen Gleichnisses "Der verlorene Sohn" aus dem Lautarchiv zu einer Klangcollage verdichtet werden. 
 Homepage: https://neubauten.org/de/node/496
 
+## Morgenstern: Chor der Kulturen der Welt
 
 
 ## Internationale Tagung: Listening to the Archive. Histories of Sound Data in the Humanities and Sciences. Berlin, 11.-13.2.2016
