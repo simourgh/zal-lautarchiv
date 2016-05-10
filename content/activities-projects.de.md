@@ -1,4 +1,16 @@
-# Projekte - externe und interne
+
+
+
+
+## Kabinette des Wissens: Digitalisierung und Erschließung der Tonaufnahmen 
+
+Das Lautarchiv wurde 1997 in das Sammlungsprojekt des Helmholtz-Zentrums für Kulturtechnik an der Humboldt-Universität aufgenommen und bis zum Jahr 2007 mit Mitteln der Volkswagenstiftung gefördert. Initiatoren dieser Unternehmung waren der Kunsthistoriker Horst Bredekamp und der Mathematiker Jochen Brüning.
+
+Zum Ende der Förderung durch die VW-Stiftung sind durch den Musikethnologen Jürgen Mahrenholz 6.400 Aufnahmen auf Schellackplatten digitalisiert, im Rahmen der Datenbank Kabinette des Wissens erschlossen und online recherchierbar. Die rasant gestiegene Nutzung des Lautarchivs seit etwa 2005 beruht wesentlich auf dieser Verfügbarkeit und Sichtbarkeit der Aufnahmen. Die Erschließung des umfangreichen schriftlichen Begleitmaterials sowie der Restaurierung und Digitalisierung anderer im Lautarchiv befindlicher Medien wie der Magnetbänder aus der Nachkriegszeit steht noch aus. Die von der Universitätsleitung zugesagte dauerhafte Verstetigung des Projektes wurde nicht eingelöst. 
+
+http://www.sammlungen.hu-berlin.de/sammlungen/78/
+
+
 
 ## Film- und Ausstellungsprojekt „THE HALFMOON FILES“
 
@@ -22,18 +34,6 @@ Zuletzt war sie im Tieranatomischen Theater der Humboldt-Universität (10.05.201
 
 Website: http://halfmoonfiles.de/de/4/making-of/home
 
-
-
-## Kabinette des Wissens: Digitalisierung und Erschließung der Tonaufnahmen 
-
-Das Lautarchiv wurde 1997 in das Sammlungsprojekt des Helmholtz-Zentrums für Kulturtechnik an der Humboldt-Universität aufgenommen und bis zum Jahr 2007 mit Mitteln der Volkswagenstiftung gefördert. Initiatoren dieser Unternehmung waren der Kunsthistoriker Horst Bredekamp und der Mathematiker Jochen Brüning.
-
-Zum Ende der Förderung durch die VW-Stiftung sind durch den Musikethnologen Jürgen Mahrenholz 6.400 Aufnahmen auf Schellackplatten digitalisiert, im Rahmen der Datenbank Kabinette des Wissens erschlossen und online recherchierbar. Die rasant gestiegene Nutzung des Lautarchivs seit etwa 2005 beruht wesentlich auf dieser Verfügbarkeit und Sichtbarkeit der Aufnahmen. Die Erschließung des umfangreichen schriftlichen Begleitmaterials sowie der Restaurierung und Digitalisierung anderer im Lautarchiv befindlicher Medien wie der Magnetbänder aus der Nachkriegszeit steht noch aus. Die von der Universitätsleitung zugesagte dauerhafte Verstetigung wurde nicht eingelöst. 
-
-Mit einem Abstand von einigen Jahren lässt sich das Projekt auch als frühes Pilotprojekt zur digitalen Erschließung einer Universitätssammlung reflektieren. So würde ein aktuelles Datenmodell die historischen Kategorien als solche kennzeichnen und nicht die damaligen, zum Teil kolonial geprägten Begriffe unkommentiert fortführen.  Die Verwendung eines Begriffsapparats und von Kategorien zeigt sich als unweigerlich kontextabhängig.   
-
-http://www.sammlungen.hu-berlin.de/sammlungen/78/
-
 ## Projektverbund: Cultural Exchange in a Time of Global Conflict 
 
 Das Lautarchiv ist assoziierter Partner des internationalen Forschungsverbundes 
@@ -54,24 +54,23 @@ Dr. Heike Liebau
 heike.liebau@zmo.de
 Zentrum Moderner Orient, Berlin
 
-
 http://www.cegcproject.eu/
 http://heranet.info/cegc/index
 
-
+## DFG-Projekt Britta Lange
 
 
 ## DFG-Projekt: Erschließung & Digitalisierung der Tonaufnahmen der Preußischen Phonographischen Kommission 1915–1918 
 
 Das Lautarchiv ist Kooperationspartner eines von der DFG geförderten Projektes des Phonogrammarchivs am Ethnologischen Museum Berlin zur Erschließung und Digitalisierung der Tonaufnahmen Preußischen Phonographischen Kommission 1915-1918. 
-Dieses Projekt wird vor allem der historischen Situation gerecht, dass das Lautarchiv und das Phonogrammarchiv mit der Phase der Phonographischen Kommission eine historische Schnittstelle besitzen. So befinden sich die grammophonischen Sprachaufnahmen einer person heute mitunter im Lautarchiv, die phonographischen Musikaufnahmen derselben Person mitunter im Phonogrammarchiv des Ethnologischen Museums. Die schriftlichen Dokumentationen zu den Personen fallen mitunter zusammen. Im Humboldt-Forum, in das beide Archive einziehen, wird die Möglichkeit bestehen, die Aufnahmen unter einem Dach aufeinander zu beziehen. Zudem ist ein gemeinsames Webportal geplant.  
+Im Zentrum steht die Digitalisierung und online-Katalogisierung der Wachswalzen des Phonogrammarchivs, aber auch die schriftlichen Dokumente des Lautarchivs werden digitalisiert. Diese Projektarchitektur wird der historischen Situation gerecht, dass das Lautarchiv und das Phonogrammarchiv mit der Phase der Phonographischen Kommission eine historische Schnittstelle besitzen. So befinden sich die grammophonischen Sprachaufnahmen einer Person heute mitunter im Lautarchiv, die phonographischen Musikaufnahmen derselben Person mitunter im Phonogrammarchiv des Ethnologischen Museums. Die schriftlichen Dokumentationen zu den Personen fallen entsprechend zusammen. Im Humboldt-Forum, in das beide Archive einziehen, wird die Möglichkeit bestehen, die Aufnahmen unter einem Dach aufeinander zu beziehen.   
 
-Projektleitung: Lars-Christian Koch, Staatliche Museen zu Berlin ):
-
-http://www.smb.museum/museen-und-einrichtungen/ethnologisches-museum/forschung.html
+Projektleitung: Lars-Christian Koch, Staatliche Museen zu Berlin
 
 
-## Humboldt-Forum
+
+
+## Humboldt-Forum [Kommentar Jochen: vielleicht nicht hier unterbringen]
 
 Das Lautarchiv soll 2019 als einzige Universitätssammlung der Humboldt-Universität vollständig in das Humboldt-Forum einziehen. Auch das Phonogrammarchiv des Ethnologischen Museums Berlins soll im Humboldt-Forum untergebracht werden.
 Anspruch der beteiligten Institutionen ist es,  einen internationalen Wissensaustausch und den Dialog der Kulturen zu ermöglichen. Mit dem Lautarchiv eine Sammlung mit einem sensiblen Ursprung in der Zwangssituation von Kriegsgefangenenlagern zu präsentieren, fordert dazu heraus, sich dem historischen Ursprung der Sammlung zu stellen. Dass die Sammlungen aus einer Hierarchie zwischen Wissenschaftlern und Sprechern resultiert, erfordert einen verantwortungsbewussten, reflektierten Umgang. Dass die Humboldt-Universität bis 2015 keine dauerhafte wissenschaftlich-kustodische Betreuung  des Lautarchivs eingerichtet hat, um die systematische Übersetzung und wissenschaftliche Bearbeitung der Aufnahmen in kulturellem Austausch zu unterstützen, wirft die Frage auf, wie ernst es mit dem Wunsch nach kulturellem Austausch gemeint ist. Pilotprojekte haben gezeigt, wie groß das Potenzial dafür ist, dass aber auch &&&& 
@@ -87,76 +86,54 @@ http://www.humboldt-forum.de/startseite/
 ## LAMENT: Einstürzende Neubauten
 
 Die Bestände des Lautarchivs finden auch in künstlerischen Projekten ihre Auseinandersetzung. So verarbeitet die Berliner Band Einstürzende Neubauten in ihrer Liveperformance LAMENT, ein Auftragswerk der Region Flandern anlässlich des Gedenkens an den Beginn des Ersten Weltkrieges vor 100 Jahren, Tonaufnahmen belgischer Kriegsgefangener.
- 
- [Pics siehe Doc]
-
 Das Werk wurde am 8.November 2014 in Diksmuide, Belgien, uraufgeführt und erlebte seitdem weltweit Aufführungen. Mit diesem Werk verknüpft die Band ihre explizit in der Tradition der Avantgarde stehenden Techniken mit diesem ersten, die gesamte Welt erschütternden Weltereignis. Das Instrumentarium der Neubauten aus Stahl, Stimme, objets trouvés und innovativster Technik wurde hierfür mit einem Streicher-Ensemble erweitert.
 
-Die CD, die mit dem Stück „“““ Material aus dem Lautarchiv §§§§. ist im Handel erhältlich. 
-https://neubauten.org/de/node/496
+Auch die CD enthält das Stück "Lament" in dem Aufnahmen des biblischen Gleichnisses "Der verlorene Sohn" aus dem Lautarchiv zu einer Klangcollage verdichtet werden. 
+Homepage: https://neubauten.org/de/node/496
 
 
-## Historisches Museum Frankfurt:
 
-Ausstellung
-Gefangene Bilder. Wissenschaft und Propaganda im Ersten Weltkrieg
+## Internationale Tagung: Listening to the Archive. Histories of Sound Data in the Humanities and Sciences. Berlin, 11.-13.2.2016
+Die internationale Tagung anlässlich des 100. Jahrestags der ersten Aufnahmen durch die Phonographische Kommission brachte wissenschaftshistorische Perspektiven zur Entwicklung verschiedener Fächer im Rahmen der Gründung von Tonarchiven im frühen 20. Jahrhundert mit aktuellen Forschungsprojekten zum Lautarchiv zusammen.
+Organisiert wurde die Tagung von Carolyn Birdsall (University of Amsterdam), Jochen Hennig (Humboldt-Universität zu Berlin), Britta Lange (Humboldt-Universität zu Berlin) and Viktoria Tkaczyk (MPI für Wissenschaftsgeschichte und Humboldt-Universität zu Berlin). 
+Homepage: https://drupal.mpiwg-berlin.mpg.de/workshops/node/60
+Programm: https://drupal.mpiwg-berlin.mpg.de/workshops/system/files/Flyer%20Listening%20to%20the%20Archive_online_0.pdf
+Booklet mit abstracts und Kurzbiografien der Vortragenden: https://drupal.mpiwg-berlin.mpg.de/workshops/system/files/Booklet%20Listening%20to%20the%20Archive_online.pdf 
+
+## Edition koreanischer Aufnahmen: Lieder der Sehnsucht. Koreanische Stimmen aus Berlin vom Anfang des 20. Jahrhunderts. (2 CDs und Begleitheft, 2014)
+
+In dem Kooperationsprojekt des koreanischen National Gugak Center, Seoul, des Lautarchivs der Humboldt-Universität, des Phonogrammarchivs des Ethnologischen Museums Berlin und des Goethe-Instituts Seoul konnten die frühen koreanischen Aufnahmen der beiden Berliner Archive als CDs herausgegeben werden. Die Aufnahmen gehen auf Nachfahren koreanischer Migranten nach Sibirien zurück, die im Ersten Weltkrieg als Soldaten der russischen Armee in deutsche Gefangenschaft gerieten. Sie haben für die Aufnahmen in verschiedenen Kriegsgefangenlagern sowohl traditionelle Lieder als auch Protestlieder gegen das japanische Protektorat gesungen. Die Aufnahmen sind einerseits alte Versionen dieser Lieder und bilden zugleich Quellenmaterial über diese Nachfahren koreanischer Migranten, über die wenig bekannt ist. 
+Die Aufnahmen des Lautarchivs wurden mit Unterstützung des Gugak Center im Direct Stream Digital-Verfahren digitalisiert. Eine CD enthält die unbearbeiteten Aufnahmen, die zweite CD dieselben Stücke unter Einsatz von Filtern zur Rauschunterdrückung. Das dreisprachige Begleitheft (deutsch, englisch, koreanisch, 216 Seiten) enthält Musik- und Texttranskriptionen sowie Beiträge der vier Kooperationspartner. 
+Bezug der CDs direkt über das Lautarchiv. 
+
+
+### Ausstellungsbeteiligungen (Auswahl)
+
+## Historisches Museum Frankfurt: Ausstellung "Gefangene Bilder. Wissenschaft und Propaganda im Ersten Weltkrieg"
 11. September 2014 - 15. Februar 2015
 
-### Die Fotografien
-
-Den Ausgangspunkt der Ausstellung bilden 15 großformatige Nahaufnahmen, die zehn Menschen zeigen. Es sind Kriegsgefangene, die aus Nord- und Westafrika stammen und in einem Gefangenenlager fotografiert worden sind. Aber wie passen diese Fotografien zu unserem Bild vom Ersten Weltkrieg? Die Ausstellung hinterfragt genau diese Vorstellungen und erzählt die bisher wenig beachteten Geschichten und Zusammenhänge dieser Fotos.
-Die Soldaten
-
-Eine halbe Millionen Männer aus den französischen Kolonien kämpften für Frankreich im Ersten Weltkrieg. Oft wurden sie unter Zwang rekrutiert. Dieser Einsatz gibt dem Terminus „Weltkrieg“ erst seine wirklich globale Bedeutung. Auch auf britischer Seite kämpften viele Kanadier, Australier und vor allem Inder, auf russischer Seite oft muslimische Nicht-Russen aus Zentralasien und dem Kaukasus. Dabei gerieten viele in Gefangenschaft. In speziellen Lagern sammelten die Mittelmächte Deutschland und Österreich-Ungarn solche Soldaten ihrer Gegner, von denen sie hofften, sie könnten gegenüber den britischen und französischen Kolonialherren ihrer Herkunftsländer aktiv werden.
-
-### Die Wissenschaft
-
-Die kolonialen Kriegsgefangenen wurden in der Lagern auch zum Untersuchungsgegenstand von Forschern, die auf diese Weise ohne aufwendige Expeditionen Zugang zu Menschen verschiedenster Ethnien aus der ganzen Welt erhielten. Entsprechend den Gepflogenheiten einer in kolonialistischer Tradition stehenden Wissenschaft hat man sie mit Zirkeln vermessen, ihre Köpfe in Gips abgegossen und auf vorgebliche Rassenmerkmale untersucht; sie wurden gefilmt, etwa bei Festen in den Lagern, und ihre Musik und ihre Stimmen wurde auf Schallplatten und Wachswalzen aufgenommen. Wie sollen Museen heute mit solchen „sensiblen Sammlungen“ umgehen?
-
-### Die Propaganda
-
-Viele deutsche Propagandaschriften, Postkarten und andere Darstellungen prangerten den Einsatz von schwarzen Soldaten, „wilden Bestien niedrigster Kulturstufe“, im Kampf gegen die deutsche „Kulturnation“ an. Und auch ein Ethnologe wie Leo Frobenius, der einerseits bei den Gefangenen Märchen und Mythen sammelte, veröffentlichte ein Buch (für das die gezeigten Fotografien entstanden), in dessen Einleitung er Frankreich und Großbritannien mit Dompteuren gleichsetzte.
-
-### Die Erinnerung
-
-Nicht nur während des Ersten Weltkrieges spielte ein rassistisch geprägtes Überlegenheitsgefühl eine Rolle. Als etwa während der Rheinlandbesetzung 1919 bis 1930 schwarze Soldaten als Besatzungstruppen eingesetzt wurden, rief dies unter der Parole „Schwarze Schmach“ in der deutschen Öffentlichkeit große Empörung hervor. Heute erinnern nur wenige Friedhöfe und Gedenkstätten an die Präsenz und die Schicksale der Kolonialsoldaten. Die Ausstellung macht sich zur Aufgabe, den außereuropäischen Teilnehmern des „Großen Krieges“ eine Stimme zu geben und auf einen der Ursprünge des Rassismus in unserer Gesellschaft aufmerksam zu machen.
- Flyer zur Ausstellung
-
+Den Ausgangspunkt der Ausstellung bilden 15 großformatige Nahaufnahmen, die zehn Menschen zeigen. Es sind Kriegsgefangene, die aus Nord- und Westafrika stammen und in einem Gefangenenlager fotografiert worden sind. Aber wie passen diese Fotografien zu unserem Bild vom Ersten Weltkrieg? Die Ausstellung hinterfragt genau diese Vorstellungen und erzählt die bisher wenig beachteten Geschichten und Zusammenhänge dieser Fotos.Das Lautarchiv hat die Ausstellung mit Leihgaben unterstützt. 
 In Kooperation mit dem Frobenius-Institut an der Universität Frankfurt und dem Institut français Frankfurt
 
-http://www.historisches-museum.frankfurt.de/index.php?article_id=826&clang=0
+Homepage: http://www.historisches-museum.frankfurt.de/index.php?article_id=826&clang=0
+Begleitbuch: Benedikt Burkard (Hg.): "Gefangene Bilder. Wissenschaft und Propaganda im Ersten Weltkrieg". Michael Imhof Verlag, Petersberg 2014
 
 
-
-## Haus der Geschichte Baden-Württemberg:
-
-Ausstellung
-Fastnacht der Hölle – Der Erste Weltkrieg und die Sinne
+## Haus der Geschichte Baden-Württemberg: Ausstellung "Fastnacht der Hölle – Der Erste Weltkrieg und die Sinne"
 4. April 2014 – 1. März 2015
 
 „UM 10 UHR BERUHIGTE SICH DIESE FASTNACHT DER HÖLLE ALLMÄHLICH UND GING IN EIN RUHIGES TROMMELFEUER ÜBER, IN DEM MAN ALLERDINGS DEN EINZELNEN ABSCHUSS AUCH NOCH NICHT WAHRNEHMEN KONNTE.“ 
 Ernst Jünger, 1916
-Fastnacht der Hölle – Der Erste Weltkrieg und die Sinne
 
-Der Erste Weltkrieg sprengte alle Maßstäbe der Wahrnehmung: Mit infernalischem Lärm von Explosionen und Geschützfeuer an der Front. Mit Kampfgas, das in Mund und Nase kroch. Mit Gerüchen von Verwesung und Exkrementen in den Schützengräben. Mit unermesslichem körperlichen und seelischen Leid. Mit Hungersnöten in der Heimat. Aber auch mit neuen technischen Möglichkeiten wie der Luftaufklärung oder der massenhaften Verbreitung der Fotografie. Propaganda manipulierte zudem die Wahrnehmung durch Auge und Ohr. 
+Das Lautarchiv stellte Leihgaben für diese Ausstellung zur Verfügung, die sich u.a. in Form von fünf Sinnesstationen zum Ziel gesetzt hat, den Ersten Weltkrieg vor Augen und zu Ohren zu bringen, ihn fühlbar zu machen und seinen Geschmack und Geruch zu veranschaulichen.
+Ausstellungsleitung: Prof. Dr. Paula Lutum-Lenger; Kuratoren: Dr. Sebastian Dörfler, Dr. Franziska Dunkel, Johannes Häußler
+http://www.krieg-und-sinne.de/
+Katalog: Haus der Geschichte Baden-Württemberg: Fastnacht der Hölle - Der Erste Weltkrieg und die Sinne. Katalog zur Großen Landesausstellung im Haus der Geschichte Baden-Württemberg. Stuttgart 2014
 
-„Fastnacht der Hölle“ führt den Ersten Weltkrieg vor Augen, bringt den Krieg zu Ohren, macht ihn fühlbar, veranschaulicht seinen Geschmack und Geruch.
+## AUsstellung des Phonogrammarchivs 2014
 
-An fünf Sinnesstationen können die Besucher Eindrücke nachempfinden – etwa den Geschmack von Militärzwieback oder den Gestank im Schützengraben. 
+## georgisches Projekt Lily
 
-Mit sprechenden Zitaten, Originaltönen, ungewöhnlichen Objekten, Filmausschnitten und noch nie gezeigten Fotos widmen sich drei Großvitrinen den drei Hauptschauplätzen des Krieges: Front, Etappe und Heimat. Sie zeigen Objekte, die berühren und erschüttern: Einen aus dem Körper eines sterbenden deutschen Soldaten herausoperierten Granatsplitter, den seine Frau später als Anhänger um den Hals trug. Einen Flakon aus einem Schützengraben, mit dessen Eau de Cologne ein Frontkämpfer den quälenden Geruch seiner ungewaschenen lebenden und der verwesenden toten Kameraden zu übertünchen versuchte. Den Transformator aus einer psychiatrischen Klinik, in der traumatisierte Soldaten mit Elektroschocks behandelt wurden. 
- „ES IST DER TOLLSTEN FANTASIE UNMÖGLICH, SICH EINE SOLCHE HÖLLENMUSIK UND DAS SCHAUSPIEL DAZU AUSZUMALEN, WIE ES OFT UNSRE MORGEN- UND ABENDSTUNDEN AUSFÜLLTE.“ 
-Adolf Mann, 1916
-
-Ausstellungsleitung: Prof. Dr. Paula Lutum-Lenger
-Kuratoren: Dr. Sebastian Dörfler, Dr. Franziska Dunkel, Johannes Häußler
-
-http://www.krieg-und-sinne.de/startseite/
-
-## DFG-Projekt Britta Lange
-
-## Tagung "Listening to the Archive"
-
-## Edition koreanischer Aufnahmen
+## Pakistan-Projekt Tieke
 
 
