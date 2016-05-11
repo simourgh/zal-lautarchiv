@@ -132,7 +132,7 @@ Ausstellungsleitung: Prof. Dr. Paula Lutum-Lenger; Kuratoren: Dr. Sebastian Dör
 http://www.krieg-und-sinne.de/
 Katalog: Haus der Geschichte Baden-Württemberg: Fastnacht der Hölle - Der Erste Weltkrieg und die Sinne. Katalog zur Großen Landesausstellung im Haus der Geschichte Baden-Württemberg. Stuttgart 2014
 
-## Ethnologisches Museum und Museum Europäischer Kulturen: Ausstellung "Phnographierte Klänge - Photographierte Momente. Ton- und Bilddokumente aus deutschen Kriegsgefangenenlagern im Ersten Weltkrieg"
+## Ethnologisches Museum und Museum Europäischer Kulturen: Ausstellung "Phonographierte Klänge - Photographierte Momente. Ton- und Bilddokumente aus deutschen Kriegsgefangenenlagern im Ersten Weltkrieg"
 10.10.2014-06.04.2015
 
 ## Deutsches Historisches Museum: Ausstellung "1914-1918. Der Erste Weltkrieg"
