@@ -91,8 +91,10 @@ Das Werk wurde am 8.November 2014 in Diksmuide, Belgien, uraufgeführt und erleb
 Auch die CD enthält das Stück "Lament" in dem Aufnahmen des biblischen Gleichnisses "Der verlorene Sohn" aus dem Lautarchiv zu einer Klangcollage verdichtet werden. 
 Homepage: https://neubauten.org/de/node/496
 
-## Morgenstern: Chor der Kulturen der Welt
+## Hauschka, Ari Benjamin Meyer, Barbara Morgenstern, Chor der Kulturen der Welt: Lautarchiv (Konzert)
+Haus der Kulturen der Welt, 15.1.2016
 
+Stimmen von Kriegsgefangenen aus ganz Europa, dem Kongo, Nordafrika und Asien: Das Lautarchiv der Berliner Humboldt-Univeristät enthält 7500 Schellackplatten mit Aufnahmen, die unter anderem zwischen 1915 und 1918 in deutschen Kriegsgefangenenlagern entstanden. Der Düsseldorfer Pianist, der New Yorker/Berliner Komponist ubd Dirigent und die Berliner Sängerin und Songschreiberin ließen das so verstörende wie einzigartige Material in ein Chorwerk einfließen. 
 
 ## Internationale Tagung: Listening to the Archive. Histories of Sound Data in the Humanities and Sciences. Berlin, 11.-13.2.2016
 Die internationale Tagung anlässlich des 100. Jahrestags der ersten Aufnahmen durch die Phonographische Kommission brachte wissenschaftshistorische Perspektiven zur Entwicklung verschiedener Fächer im Rahmen der Gründung von Tonarchiven im frühen 20. Jahrhundert mit aktuellen Forschungsprojekten zum Lautarchiv zusammen.
@@ -119,7 +121,6 @@ In Kooperation mit dem Frobenius-Institut an der Universität Frankfurt und de
 Homepage: http://www.historisches-museum.frankfurt.de/index.php?article_id=826&clang=0
 Begleitbuch: Benedikt Burkard (Hg.): "Gefangene Bilder. Wissenschaft und Propaganda im Ersten Weltkrieg". Michael Imhof Verlag, Petersberg 2014
 
-
 ## Haus der Geschichte Baden-Württemberg: Ausstellung "Fastnacht der Hölle – Der Erste Weltkrieg und die Sinne"
 4. April 2014 – 1. März 2015
 
@@ -131,7 +132,14 @@ Ausstellungsleitung: Prof. Dr. Paula Lutum-Lenger; Kuratoren: Dr. Sebastian Dör
 http://www.krieg-und-sinne.de/
 Katalog: Haus der Geschichte Baden-Württemberg: Fastnacht der Hölle - Der Erste Weltkrieg und die Sinne. Katalog zur Großen Landesausstellung im Haus der Geschichte Baden-Württemberg. Stuttgart 2014
 
-## AUsstellung des Phonogrammarchivs 2014
+## Ethnologisches Museum und Museum Europäischer Kulturen: Ausstellung "Phnographierte Klänge - Photographierte Momente. Ton- und Bilddokumente aus deutschen Kriegsgefangenenlagern im Ersten Weltkrieg"
+10.10.2014-06.04.2015
+
+## Deutsches Historisches Museum: Ausstellung "1914-1918. Der Erste Weltkrieg"
+29.05.-30.11.2014
+
+## Museum Sønderjylland – Oldemorstoft (Dänemark): Ausstellung "Russiske krigsfanger i Sønderjylland"
+29.04.-30.10.2016
 
 ## georgisches Projekt Lily
 
