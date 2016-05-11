@@ -10,9 +10,11 @@ Sverige radio (27.04.2016) Vetenskapsradion Historia: "Halvmånelägret – jiha
 
 Kulturen. Das Online-Magazin der KulturjounalistInnen der UdK Berlin (19.01.2016) "Stimmen aus prekären Umständen"
 
-Deutschlandradio Kultur (27.10.2015) "Tonaufnahmen von Kriegsgefangenen: Die Stimmen der Welt"
+BBC Radio 3 (01.12.2015) "Between the Essays: With Faint Dry Sound"
 
 BBC World Service (26.12.2015) "The Ghostly Voices of World War One"
+
+Deutschlandradio Kultur (27.10.2015) "Tonaufnahmen von Kriegsgefangenen: Die Stimmen der Welt"
 
 BBC News N. Ireland (02.04.2015) "The singing Falls Road soldier: German WWI PoW camp recording brings history alive"
 
