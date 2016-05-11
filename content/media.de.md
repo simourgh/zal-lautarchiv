@@ -1,10 +1,10 @@
-# Television
+# Television (Auswahl)
 
 TF 1 News (11.11.2015) DOCUMENT TF1: "la voix des poilus retrouvée"
 
 BBC TWO (August 2014) "The World's War: Forgotten Soldiers of Empire"
 
-# Radio
+# Radio (Auswahl)
 
 Sverige radio (27.04.2016) Vetenskapsradion Historia: "Halvmånelägret – jihadistskolan i Berlin" (Wissenschaftradio Geschichte: "Das Halbmondlager - Die Dschihadschule in Berlin")
 
@@ -22,7 +22,7 @@ DRadio Wissen (30.01.2015) "Lautarchiv: Alle Stimmen der Welt"
 
 Deutschlandradio Kultur (19.11.2014) "Das Deutsche Kaiserreich und der Dschihad. Warum die erste deutsche Moschee 1915 in Wünsdorf gebaut wurde"
 
-# Internet
+# Internet (Auswahl)
 
 Spiegel Online (16.09.2015)  "Ethnologische Tonaufnahmen: Sprach-Testamente aus dem Gefangenenlager"
 http://www.spiegel.de/einestages/erster-weltkrieg-tonaufnahmen-im-kriegsgefangenenlager-a-1049784.html
