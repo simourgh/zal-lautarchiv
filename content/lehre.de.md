@@ -6,7 +6,8 @@
 Vorlesung (Kulturwissenschaft): Gefangene Stimmen. Zur Aktualität der Tonaufnahmen aus dem Lautarchiv der Humboldt-Universität
 PD Dr. Britta Lange
 
-Berlin Perspectives - Internationales Studienmodul (Kulturwissenschaft, Literaturwissenschaft) "Finding Berlin: On Archives and Archiving" Ana María Gómez López
+Berlin Perspectives - Internationales Studienmodul (Kulturwissenschaft, Literaturwissenschaft): Finding Berlin: On Archives and Archiving 
+Ana María Gómez López
 
 ### WiSe 2015/16
 
