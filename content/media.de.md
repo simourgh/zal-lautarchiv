@@ -36,4 +36,5 @@ http://www.irishtimes.com/culture/heritage/century/thesoldierssongs
 Evangelische Journalistenschule "Die Geschichte der ersten beiden Moscheen in Deutschland: Allahs vergessene Krieger"
 https://moscheestrasse.wordpress.com/
 
+CouchFM - Das Berliner Campusradio (07.08.2015) https://www.couchfm.de/stoebern-im-lautarchiv/
 
