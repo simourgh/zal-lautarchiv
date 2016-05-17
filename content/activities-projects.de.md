@@ -86,7 +86,7 @@ http://www.humboldt-forum.de/startseite/
 ## LAMENT: Einstürzende Neubauten
 
 Die Bestände des Lautarchivs finden auch in künstlerischen Projekten ihre Auseinandersetzung. So verarbeitet die Berliner Band Einstürzende Neubauten in ihrer Liveperformance LAMENT, ein Auftragswerk der Region Flandern anlässlich des Gedenkens an den Beginn des Ersten Weltkrieges vor 100 Jahren, Tonaufnahmen belgischer Kriegsgefangener.
-Das Werk wurde am 8.November 2014 in Diksmuide, Belgien, uraufgeführt und erlebte seitdem weltweit Aufführungen. Mit diesem Werk verknüpft die Band ihre explizit in der Tradition der Avantgarde stehenden Techniken mit diesem ersten, die gesamte Welt erschütternden Weltereignis. Das Instrumentarium der Neubauten aus Stahl, Stimme, objets trouvés und innovativster Technik wurde hierfür mit einem Streicher-Ensemble erweitert.
+Das Werk wurde am 8. November 2014 in Diksmuide, Belgien, uraufgeführt und erlebte seitdem weltweit Aufführungen. Mit diesem Werk verknüpft die Band ihre explizit in der Tradition der Avantgarde stehenden Techniken mit diesem ersten, die gesamte Welt erschütternden Weltereignis. Das Instrumentarium der Neubauten aus Stahl, Stimme, objets trouvés und innovativster Technik wurde hierfür mit einem Streicher-Ensemble erweitert.
 
 Auch die CD enthält das Stück "Lament" in dem Aufnahmen des biblischen Gleichnisses "Der verlorene Sohn" aus dem Lautarchiv zu einer Klangcollage verdichtet werden. 
 Homepage: https://neubauten.org/de/node/496
@@ -112,14 +112,13 @@ Bezug der CDs direkt über das Lautarchiv.
 
 ### Ausstellungsbeteiligungen (Auswahl)
 
-## Historisches Museum Frankfurt: Ausstellung "Gefangene Bilder. Wissenschaft und Propaganda im Ersten Weltkrieg"
-11. September 2014 - 15. Februar 2015
+## digging deep, crossing far.
 
-Den Ausgangspunkt der Ausstellung bilden 15 großformatige Nahaufnahmen, die zehn Menschen zeigen. Es sind Kriegsgefangene, die aus Nord- und Westafrika stammen und in einem Gefangenenlager fotografiert worden sind. Aber wie passen diese Fotografien zu unserem Bild vom Ersten Weltkrieg? Die Ausstellung hinterfragt genau diese Vorstellungen und erzählt die bisher wenig beachteten Geschichten und Zusammenhänge dieser Fotos.Das Lautarchiv hat die Ausstellung mit Leihgaben unterstützt. 
-In Kooperation mit dem Frobenius-Institut an der Universität Frankfurt und dem Institut français Frankfurt
+## Museum Sønderjylland – Oldemorstoft (Dänemark): Ausstellung "Russiske krigsfanger i Sønderjylland"
+29. April - 31. Oktober 2016
 
-Homepage: http://www.historisches-museum.frankfurt.de/index.php?article_id=826&clang=0
-Begleitbuch: Benedikt Burkard (Hg.): "Gefangene Bilder. Wissenschaft und Propaganda im Ersten Weltkrieg". Michael Imhof Verlag, Petersberg 2014
+## Ethnologisches Museum und Museum Europäischer Kulturen: Ausstellung "Phonographierte Klänge - Photographierte Momente. Ton- und Bilddokumente aus deutschen Kriegsgefangenenlagern im Ersten Weltkrieg"
+10. Oktober 2014 - 06. April 2015
 
 ## Haus der Geschichte Baden-Württemberg: Ausstellung "Fastnacht der Hölle – Der Erste Weltkrieg und die Sinne"
 4. April 2014 – 1. März 2015
@@ -132,17 +131,17 @@ Ausstellungsleitung: Prof. Dr. Paula Lutum-Lenger; Kuratoren: Dr. Sebastian Dör
 http://www.krieg-und-sinne.de/
 Katalog: Haus der Geschichte Baden-Württemberg: Fastnacht der Hölle - Der Erste Weltkrieg und die Sinne. Katalog zur Großen Landesausstellung im Haus der Geschichte Baden-Württemberg. Stuttgart 2014
 
-## Ethnologisches Museum und Museum Europäischer Kulturen: Ausstellung "Phonographierte Klänge - Photographierte Momente. Ton- und Bilddokumente aus deutschen Kriegsgefangenenlagern im Ersten Weltkrieg"
-10.10.2014-06.04.2015
+## Historisches Museum Frankfurt: Ausstellung "Gefangene Bilder. Wissenschaft und Propaganda im Ersten Weltkrieg"
+11. September 2014 - 15. Februar 2015
+
+Den Ausgangspunkt der Ausstellung bilden 15 großformatige Nahaufnahmen, die zehn Menschen zeigen. Es sind Kriegsgefangene, die aus Nord- und Westafrika stammen und in einem Gefangenenlager fotografiert worden sind. Aber wie passen diese Fotografien zu unserem Bild vom Ersten Weltkrieg? Die Ausstellung hinterfragt genau diese Vorstellungen und erzählt die bisher wenig beachteten Geschichten und Zusammenhänge dieser Fotos.Das Lautarchiv hat die Ausstellung mit Leihgaben unterstützt. 
+In Kooperation mit dem Frobenius-Institut an der Universität Frankfurt und dem Institut français Frankfurt
+
+Homepage: http://www.historisches-museum.frankfurt.de/index.php?article_id=826&clang=0
+Begleitbuch: Benedikt Burkard (Hg.): "Gefangene Bilder. Wissenschaft und Propaganda im Ersten Weltkrieg". Michael Imhof Verlag, Petersberg 2014
 
 ## Deutsches Historisches Museum: Ausstellung "1914-1918. Der Erste Weltkrieg"
-29.05.-30.11.2014
+29. Mai - 30. November 2014
 
-## Museum Sønderjylland – Oldemorstoft (Dänemark): Ausstellung "Russiske krigsfanger i Sønderjylland"
-29.04.-30.10.2016
-
-## georgisches Projekt Lily
-
-## Pakistan-Projekt Tieke
-
-
+## Förderverein Alter Berliner Garnisonfriedhof e.V. Berlin: Exhibition Cycle: 100 Jahre Erster Weltkrieg. Körperschriften.
+26. April - 4. Mai 2014
