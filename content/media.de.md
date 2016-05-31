@@ -24,6 +24,8 @@ Deutschlandradio Kultur (19.11.2014) "Das Deutsche Kaiserreich und der Dschihad.
 
 # Internet (Auswahl)
 
+taz.blogs (25.05.2016) "When Tagore, the Prophet, preached in Berlin" http://blogs.taz.de/checkpointchutney/2016/05/25/when-tagore-the-prophet-preached-in-berlin/
+
 Spiegel Online (16.09.2015)  "Ethnologische Tonaufnahmen: Sprach-Testamente aus dem Gefangenenlager"
 http://www.spiegel.de/einestages/erster-weltkrieg-tonaufnahmen-im-kriegsgefangenenlager-a-1049784.html
 
