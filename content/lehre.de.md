@@ -9,6 +9,9 @@ PD Dr. Britta Lange
 Berlin Perspectives - Internationales Studienmodul (Kulturwissenschaft, Literaturwissenschaft): Finding Berlin: On Archives and Archiving 
 Ana María Gómez López
 
+BA-Seminar (Hermann von Helmholtz-Zentrum für Kulturtechnik): „Sensible Objekte“. Provenienzforschung in wissenschaftlichen Sammlungen
+Dr. Cornelia Weber
+
 ### WiSe 2015/16
 
 MA-Seminar (Kulturwissenschaft, Geschichtswissenschaften): Das Ohr am Archiv. Wissens- und Kultureschichte akustischer Daten.
