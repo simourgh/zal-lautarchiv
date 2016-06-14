@@ -114,6 +114,17 @@ Bezug der CDs direkt über das Lautarchiv.
 
 ## digging deep, crossing far.
 
+10. September bis 13. November 2016
+Eröffnung: Freitag, den 09. September, ab 19 Uhr 
+
+Ein Projekt des Kunstraum Kreuzberg/Bethanien, kuratiert von Elke Falat und Julia Tieke, gefördert durch den Hauptstadtkulturfonds.
+
+Das Projekt digging deep, crossing far möchte eine neue Sichtweise auf die globale Dimension des Ersten Weltkriegs eröffnen. Nachdem es zuvor Station in Indien, Pakistan, Brandenburg und dem Maghreb macht, soll es Ende 2016 im Kunstraum Kreuzberg/Bethanien in Berlin stattfinden.
+
+digging deep, crossing far fokussiert anhand einer Kombination von historischen Materialien und zeitgenössischen künstlerischen Positionen auf Narrative des Ersten Weltkriegs und ermöglicht eine Repositionierung. 
+
+Kuratorinnen: Elke Falat und Julia Tieke
+
 ## Museum Sønderjylland – Oldemorstoft (Dänemark): Ausstellung "Russiske krigsfanger i Sønderjylland"
 29. April - 31. Oktober 2016
 
